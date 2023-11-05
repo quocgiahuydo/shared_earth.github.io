@@ -1,0 +1,62 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url("/images/Fading\ green.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(245,245,245);
+    background-attachment: fixed;
+    overflow: auto;
+}
+.title_header {
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+}
+.title_header img {
+    width:20%;
+    height:30%;
+}
+
+.bar > ul {
+    background-color: rgb(11, 11, 11);
+    color: rgb(238, 239, 239);
+    font-size :20px;
+    font-family:'Times New Roman', Times, serif;
+    padding:10px;
+    width:60%;
+    margin: auto;
+    text-align: center;
+}
+.bar > ul> li {
+    list-style-type: none;
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 10px;
+ }
+.bar > ul > li:hover{
+    background-color: rgb(70, 69, 69);
+
+}
+section {
+    margin: 10px auto;
+    padding:10px;
+    width: 60%;
+    background-color: antiquewhite;
+    border: 10px gainsboro;
+}
+.content img {
+    width: 75%;
+    height: 75%;
+
+
+}
+.img_main {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
