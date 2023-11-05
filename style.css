@@ -20,6 +20,15 @@ body {
     height:30%;
 }
 
+.bar a {
+    text-decoration: none;
+    color:rgb(238, 239, 239)
+
+}
+.content a {
+    text-decoration: none;
+    color:rgb(221, 104, 45)
+}
 .bar > ul {
     background-color: rgb(11, 11, 11);
     color: rgb(238, 239, 239);
@@ -70,4 +79,11 @@ section {
     width: 30%;
     padding: 10px;
     text-align: center;
+}
+.info_content {
+    margin:10px auto;
+    width:60%;
+    padding:10px;
+    text-align: center;
+
 }
